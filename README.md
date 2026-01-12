@@ -4,7 +4,7 @@
 
 This repository contains my work on configuring a firewall. The objective was to set up UFW (Uncomplicated FireWall) on a Kali Linux system, block inbound traffic on port 23 (Telnet), test the rule, and then restore the original firewall state.
 
-<img width="860" height="887" alt="image" src="https://github.com/user-attachments/assets/843bc9d2-16b9-4727-a81d-107d9e7d21d5" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3cabb47f-7aee-4f11-8864-960c1e38008d" />
 
 
 ### Steps Taken
